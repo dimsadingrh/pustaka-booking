@@ -3,7 +3,7 @@ class Latihan1 extends CI_Controller
 {
     public function index()
     {
-        echo "Selamat Datang.. Selamat belajar Web Programming";
+        echo "<b><h2>Selamat Datang.. Selamat belajar Web Programming</h2><b>";
         //$this->load->view('view-latihan1');
     }
 
